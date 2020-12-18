@@ -1,2 +1,2 @@
-# ProjectWreckingBall
-Training Project
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
